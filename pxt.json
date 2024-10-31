@@ -4,7 +4,9 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "pxt-edubit": "github:cytrontechnologies/pxt-edubit#v1.15.0",
+        "JoyBit": "github:alsrobot-microbit-makecode-packages/alsrobotjoybit#1.1.1"
     },
     "files": [
         "main.blocks",
